@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/get_boundary_and_area" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
